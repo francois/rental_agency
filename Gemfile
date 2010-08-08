@@ -31,4 +31,9 @@ group :development, :test do
   gem "rspec-mocks",        :git => "git://github.com/rspec/rspec-mocks.git"
 end
 
+group :test do
+  gem "shoulda",      :git => "git://github.com/thoughtbot/shoulda.git"
+  gem "factory_girl", :git => "git://github.com/thoughtbot/factory_girl.git"
+end
+
 # vim: ft=ruby
