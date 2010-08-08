@@ -6,13 +6,13 @@ gem 'arel',  :git => 'git://github.com/rails/arel.git'
 gem 'pg'
 
 # Use unicorn as the web server
-# gem 'unicorn'
+gem 'unicorn'
 
 # Deploy with Capistrano
 # gem 'capistrano'
 
 # To use debugger
-# gem 'ruby-debug'
+gem 'ruby-debug'
 
 # Bundle the extra gems:
 # gem 'bj'
