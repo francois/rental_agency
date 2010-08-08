@@ -26,3 +26,5 @@ gem 'pg'
 # group :development, :test do
 #   gem 'webrat'
 # end
+
+# vim: ft=ruby
